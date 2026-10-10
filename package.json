@@ -1,17 +1,1 @@
-{
-"name": "@arsenicdisc2/breeze-svg",
-"version": "1.0.0",
-"description": "Breeze SVG asset",
-"files": [
-"index.svg",
-"index.html",
-"assets/",
-"controller/",
-"scramjet/",
-"sw.js",
-"version.json",
-"robots.txt"
-],
-"license": "AGPL-3.0"
-}
-
+{ "name": "@arsenicdisc2/breeze-svg", "version": "1.0.1", "description": "Breeze SVG asset", "files": [ "index.svg", "index.html", "assets/", "controller/", "scramjet/", "sw.js", "version.json", "robots.txt" ], "license": "AGPL-3.0" }
